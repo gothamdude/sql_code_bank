@@ -1,0 +1,52 @@
+1. open psql bash
+
+2. to connect
+psql - U postgres
+
+####################################################################
+Server [localhost]: localhost
+Database [postgres]: postgres
+Port [5432]: 5432
+Username [postgres]: postgres
+Password for user postgres:
+
+psql (16.3)
+WARNING: Console code page (437) differs from Windows code page (1252)
+         8-bit characters might not work correctly. See psql reference
+         page "Notes for Windows users" for details.
+Type "help" for help.
+
+postgres=#
+####################################################################
+
+3. check all dbs
+\l
+
+4. check all object
+\d
+
+5. check all object that are tables
+\dt
+
+6. check all object that are views
+\dv
+
+7. check all objects that are sequences
+\ds
+
+8. switch to another dn
+\c oltpdb
+
+##########################################################
+postgres=# \c oltpdb
+You are now connected to database "oltpdb" as user "postgres".
+oltpdb=#
+############################################################
+
+9. get help
+\h
+
+10. exit psql
+\q
+
+
