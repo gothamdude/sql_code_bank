@@ -1,0 +1,4 @@
+
+
+alter table employees_with_primary_key_constraint2 
+rename to employees_with_primary_key_constraint_ALSO;
