@@ -1,0 +1,12 @@
+customer_id,order_details
+1,'Lego Truck Set'
+2,'Charmin Tissue'
+1,'Flower Pot Plastic'
+5,'Apple Iphone 16x'
+6,'Jumanji Board Game',
+6,'Roman Candle 12x'
+5,'Truman Show DVD',
+3,'Jardin True Christmas Tree Large'
+3,'AR-15 Replica'
+2,'Domain Driven Design 2018',
+1,'Kornwell Gas Distiller'

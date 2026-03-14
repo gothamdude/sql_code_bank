@@ -1,0 +1,5 @@
+USE MASTER  
+GO 
+
+ALTER DATABASE AdventureWorks COLLATE SQL_Latin1_General_CP1_CI_AS
+go 

@@ -1,0 +1,8 @@
+USE MASTER 
+GO 
+
+CREATE DATABASE NewDatabase 
+	COLLATE SQL_Latin1_General_CP1_CI_AS
+GO 
+
+
