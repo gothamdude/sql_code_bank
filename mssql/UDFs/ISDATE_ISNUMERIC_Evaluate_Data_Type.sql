@@ -1,0 +1,14 @@
+
+-- Returns 0
+SELECT ISDATE('1/1/20000')
+
+-- Returns 1
+SELECT ISDATE('1/1/2008')
+
+
+-- Returns 0
+SELECT ISNUMERIC('123ABC')
+
+
+-- Returns 1
+SELECT ISNUMERIC('123')

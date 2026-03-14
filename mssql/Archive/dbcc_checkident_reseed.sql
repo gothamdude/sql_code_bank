@@ -1,0 +1,4 @@
+DBCC CHECKIDENT ("Rule_Rule", RESEED, 0);
+GO
+
+
